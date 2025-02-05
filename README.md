@@ -1,10 +1,9 @@
 # Basic
 This is a fun project so I will not be providing any support for it and yes this is one off thing.
 
-n_threads is a how many thread PalmistryAI is going to use in your CPU
-GPT Model is the large language model we are using.
+n_threads is a how many thread the code is going to use.
 
-I use yolo11s image segmentation trained on 33 image so it might not be the best.
+I use yolo11s image segmentation trained on 33 image so it might not be the best alongside Facebook Llama 3.2 3B instruct.
 
 # How to use
 ```python
