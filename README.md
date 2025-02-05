@@ -1,8 +1,12 @@
-from PalmistryAI import PalmistryAI
-
+# Basic
 n_threads is a how many thread PalmistryAI is going to use in your CPU
 GPT Model is the large language model we are using.
 
+I use yolo11s image segmentation trained on 33 image so it might not be the best.
+
+# How to use
+```python
+from PalmistryAI import PalmistryAI
 
 # Initialize the PalmistryAI system
 palm_reader = PalmistryAI(
@@ -20,3 +24,4 @@ try:
     print("\nPalmistry Reading:\n", prediction)
 except FileNotFoundError as e:
     print(e)
+```
