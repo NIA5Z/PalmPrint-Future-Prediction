@@ -1,0 +1,7 @@
+torch 
+torchvision 
+torchaudio
+ultralytics
+numpy
+opencv-python
+GPT4All[cuda]
