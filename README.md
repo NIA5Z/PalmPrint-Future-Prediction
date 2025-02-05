@@ -1,4 +1,6 @@
 # Basic
+This is a fun project so I will not be providing any support for it and yes this is one off thing.
+
 n_threads is a how many thread PalmistryAI is going to use in your CPU
 GPT Model is the large language model we are using.
 
